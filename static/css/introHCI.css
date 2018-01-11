@@ -1,4 +1,9 @@
 /* applies to anything of class "example-class-selector" */
+.project {
+	background-color: gray;
+	margin-left: 10px;
+}
+
 .example-class-selector {
 	margin-top: 2em;
 }
